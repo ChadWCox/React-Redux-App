@@ -1,9 +1,8 @@
-import logo from './logo.svg';
 import './App.css';
 import ApiList from './components/ApiList'
 
 function App() {
-  return (
+  return ( 
     <div className="App">
       <ApiList />
     </div>
